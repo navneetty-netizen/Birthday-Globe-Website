@@ -21,9 +21,10 @@ export const ALL_MEDIA = [
 export const TARGET_DATE = new Date("2026-01-11T00:00:00");
 
 export const MOON_DATA = [
-  { year: "2005", src: "https://github.com/navneetty-netizen/moon/blob/main/moon-2005.png?raw=true" },
-  { year: "2015", src: "https://github.com/navneetty-netizen/moon/blob/main/moon-2015.jpg?raw=true" },
-  { year: "2021", src: "https://github.com/navneetty-netizen/moon/blob/main/moon%202021.jpg?raw=true" },
-  { year: "2024", src: "https://github.com/navneetty-netizen/moon/blob/main/moon-2024.jpg?raw=true" },
-  { year: "2025", src: "https://github.com/navneetty-netizen/moon/blob/main/moon-2025.jpg?raw=true" },
+  { year: "2005", src: "https://github.com/navneetty-netizen/moon1/blob/main/moon-2005.png?raw=true" },
+  { year: "2015", src: "https://github.com/navneetty-netizen/moon1/blob/main/moon-2015.png?raw=true" },
+  { year: "2021", src: "https://github.com/navneetty-netizen/moon1/blob/main/moon-2021.png?raw=true" },
+  { year: "2024", src: "https://github.com/navneetty-netizen/moon1/blob/main/moon-2024.png?raw=true" },
+  { year: "2025", src: "https://github.com/navneetty-netizen/moon1/blob/main/moon-2025.png?raw=true" },
+  { year: "2026", src: "https://github.com/navneetty-netizen/moon1/blob/main/moon-2026.png?raw=true" },
 ];
