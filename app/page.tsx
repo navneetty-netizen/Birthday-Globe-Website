@@ -76,7 +76,7 @@ export default function Home() {
               className="text-4xl sm:text-6xl lg:text-7xl font-semibold tracking-tight text-white mb-8 leading-[1.1] text-balance"
             >
               Happy Birthday,<br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-300 to-rose-500">My Favorite Person.</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-300 to-rose-500">My Favorite Person, My Cutu</span>
             </motion.h1>
 
             <motion.p 
